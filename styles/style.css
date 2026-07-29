@@ -58,7 +58,7 @@ nav a:hover {
 }
 
 .portada {
-    background-image: url("assets/images/cabecera.jpg");
+    background-image: url("../assets/images/cabecera.jpg");
     display: flex;
     flex-direction: column;
     justify-content: center;
